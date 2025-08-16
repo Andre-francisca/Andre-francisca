@@ -7,7 +7,7 @@
 - 🎓 Dedicated to clean architecture and best practices, with a keen interest in making code maintainable and scalable.
 
  🌐 Connect with Me
-- I’m interested in internship opportunities, especially in the field of database management, backend systems, and API development.
+- I’m interested in apprenticeship opportunities for my master, especially in the field of database management,data analyst, backend systems, and API development.
 - Always looking to collaborate on innovative projects and open-source contributions.
 
 
